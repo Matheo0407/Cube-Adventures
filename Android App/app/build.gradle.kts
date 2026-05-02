@@ -43,6 +43,7 @@ android {
 
     // Nota: Si te da error de "NDK not found", puedes borrar estas dos líneas de abajo
     ndkVersion = "30.0.14904198 rc1"
+    buildToolsVersion = "36.0.0"
 
 }
 
